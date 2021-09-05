@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### 初めまして、始めました 自己紹介
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+こんにちは初めまして、ブログ　初投稿です。 自己紹介 をします。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+私は社会人6年目の会社員です。
 
+ブログのタイトルは愛猫の名前ごますけと
 
-[jekyll-organization]: https://github.com/jekyll
+現在、私はマレーシア在住４年目なので掛け合わせて考えました。
