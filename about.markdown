@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+description: welcome to my blog
+background: '/assets/img/banner.jpg'
 ---
 
 ### 初めまして、始めました 自己紹介
