@@ -2,7 +2,7 @@
 layout: post
 categories: 日常
 title: 自己紹介
-
+subtitle: ブログ初投稿です。自己紹介をします。
 ---
 <h2>こんにちは初めまして</h2> 
 <p>

@@ -70,7 +70,7 @@ google_analytics:   UA-201418283-1 # out your google-analytics code
 
 # Build settings
 markdown:           kramdown
-paginate:           5
+paginate:           8
 paginate_path:      "/posts/page:num/"
 plugins:
   - jekyll-feed
