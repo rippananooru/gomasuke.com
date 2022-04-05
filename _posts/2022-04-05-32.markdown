@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: 日常
-title:お久しぶり
+title: お久しぶり
 subtitle: 'しばらーくブログを書いてなかった'
 
 ---
