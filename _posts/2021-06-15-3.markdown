@@ -1,8 +1,8 @@
 ---
 layout: post
-categories: ねこちゃん
+categories: 日常
 title: なぜ人は猫好きか、真剣に考えてみた
-subtitle : 皆さんは猫好きですか？私は大好きです。
+subtitle : 皆さんは猫好きですか？。
 
 ---
 ## 皆さんは猫好きですか？

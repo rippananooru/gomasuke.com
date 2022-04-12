@@ -1,8 +1,8 @@
 ---
 layout: post
-categories: 日常
+categories: 自己紹介
 title: 我が家のアイドル ごますけくん
-sub title: うちの猫様について紹介したい。名前はごますけ。
+subtitle: うちの猫様について紹介したい。名前はごますけ。
 ---
 ## 我が家のアイドル<br>
 うちの猫様について紹介したい。<br>

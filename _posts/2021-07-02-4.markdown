@@ -1,8 +1,8 @@
 ---
 layout: post
-categories: 日常
-title: マレーシアの新しい行動制限 EMCO
-sub title: EMCOはEnhanced Movement Control Order の略で「強化された活動制限令」
+categories: コロナ
+title: マレーシアの新しい行動制限
+subtitle:　EMCOはEnhanced Movement Control Order の略で「強化された活動制限令」
 ---
 ### マレーシアの新しい行動制限 EMCO
 マレーシアの EMCO 詳細が発表された。<br>
