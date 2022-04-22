@@ -2,7 +2,7 @@
 layout: post
 categories: 日常
 title: 仕事辞めました！
-subtitle: 今週の月曜に仕事辞めました。どうしよう～って感じ
+subtitle: 今週の月曜に仕事辞めました。
 
 ---
 
